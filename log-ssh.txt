@@ -1,0 +1,146 @@
+Jan 10 20:56:19 charr-VirtualBox sshd[631]: Server listening on 0.0.0.0 port 22.
+Jan 10 20:56:19 charr-VirtualBox sshd[631]: Server listening on :: port 22.
+Jan 10 20:59:03 charr-VirtualBox sshd[4892]: Accepted password for charr from 192.168.43.231 port 49993 ssh2
+Jan 10 20:59:03 charr-VirtualBox sshd[4892]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 10 21:43:50 charr-VirtualBox sshd[7997]: Accepted password for charr from 192.168.43.231 port 50572 ssh2
+Jan 10 21:43:50 charr-VirtualBox sshd[7997]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 10 21:44:02 charr-VirtualBox sshd[8236]: Accepted password for charr from 192.168.43.231 port 50584 ssh2
+Jan 10 21:44:02 charr-VirtualBox sshd[8236]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 10 21:44:07 charr-VirtualBox sshd[7997]: pam_unix(sshd:session): session closed for user charr
+Jan 10 21:44:07 charr-VirtualBox sshd[8236]: pam_unix(sshd:session): session closed for user charr
+Jan 10 21:44:18 charr-VirtualBox sshd[8425]: Accepted password for charr from 192.168.43.231 port 50595 ssh2
+Jan 10 21:44:18 charr-VirtualBox sshd[8425]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 10 21:44:31 charr-VirtualBox sshd[8583]: Accepted password for charr from 192.168.43.231 port 50608 ssh2
+Jan 10 21:44:31 charr-VirtualBox sshd[8583]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 10 21:46:47 charr-VirtualBox sshd[5073]: Received disconnect from 192.168.43.231 port 49993:11: disconnected by user
+Jan 10 21:46:47 charr-VirtualBox sshd[5073]: Disconnected from user charr 192.168.43.231 port 49993
+Jan 10 21:46:47 charr-VirtualBox sshd[4892]: pam_unix(sshd:session): session closed for user charr
+Jan 10 21:53:17 charr-VirtualBox sshd[9098]: Accepted password for charr from 192.168.43.231 port 50645 ssh2
+Jan 10 21:53:17 charr-VirtualBox sshd[9098]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 10 22:51:09 charr-VirtualBox sshd[9098]: pam_unix(sshd:session): session closed for user charr
+Jan 10 22:51:09 charr-VirtualBox sshd[9098]: pam_systemd(sshd:session): Failed to release session: Interrupted system call
+Jan 11 20:59:34 charr-VirtualBox sshd[618]: Server listening on 0.0.0.0 port 22.
+Jan 11 20:59:34 charr-VirtualBox sshd[618]: Server listening on :: port 22.
+Jan 11 21:01:08 charr-VirtualBox sshd[4101]: Accepted password for charr from 192.168.43.231 port 50082 ssh2
+Jan 11 21:01:08 charr-VirtualBox sshd[4101]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 11 21:01:50 charr-VirtualBox sshd[4249]: Accepted password for charr from 192.168.43.231 port 50090 ssh2
+Jan 11 21:01:50 charr-VirtualBox sshd[4249]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 11 21:02:02 charr-VirtualBox sshd[4528]: Connection reset by authenticating user charr 192.168.43.231 port 50109 [preauth]
+Jan 11 21:02:10 charr-VirtualBox sshd[4249]: pam_unix(sshd:session): session closed for user charr
+Jan 11 21:02:57 charr-VirtualBox sshd[4629]: Accepted password for charr from 192.168.43.231 port 50120 ssh2
+Jan 11 21:02:57 charr-VirtualBox sshd[4629]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 11 21:03:17 charr-VirtualBox sshd[4852]: Connection reset by authenticating user charr 192.168.43.231 port 50151 [preauth]
+Jan 11 21:57:45 charr-VirtualBox sshd[4703]: Received disconnect from 192.168.43.231 port 50120:11: disconnected by user
+Jan 11 21:57:45 charr-VirtualBox sshd[4703]: Disconnected from user charr 192.168.43.231 port 50120
+Jan 11 21:57:45 charr-VirtualBox sshd[4629]: pam_unix(sshd:session): session closed for user charr
+Jan 11 21:57:55 charr-VirtualBox sshd[4101]: pam_unix(sshd:session): session closed for user charr
+Jan 11 21:57:55 charr-VirtualBox sshd[4101]: pam_systemd(sshd:session): Failed to release session: Interrupted system call
+Jan 11 22:13:25 charr-VirtualBox sshd[578]: Server listening on 0.0.0.0 port 22.
+Jan 11 22:13:25 charr-VirtualBox sshd[578]: Server listening on :: port 22.
+Jan 11 22:16:44 charr-VirtualBox sshd[4195]: Accepted password for charr from 192.168.43.231 port 51149 ssh2
+Jan 11 22:16:44 charr-VirtualBox sshd[4195]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 11 22:17:40 charr-VirtualBox sshd[4304]: Received disconnect from 192.168.43.231 port 51149:11: disconnected by user
+Jan 11 22:17:40 charr-VirtualBox sshd[4304]: Disconnected from user charr 192.168.43.231 port 51149
+Jan 11 22:17:40 charr-VirtualBox sshd[4195]: pam_unix(sshd:session): session closed for user charr
+Jan 11 22:17:42 charr-VirtualBox sshd[4313]: Connection reset by authenticating user charr 192.168.43.231 port 51161 [preauth]
+Jan 11 22:25:06 charr-VirtualBox sshd[5254]: Accepted password for charr from 192.168.43.231 port 51263 ssh2
+Jan 11 22:25:06 charr-VirtualBox sshd[5254]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 11 22:49:04 charr-VirtualBox sshd[5254]: pam_unix(sshd:session): session closed for user charr
+Jan 11 22:49:04 charr-VirtualBox sshd[5254]: pam_systemd(sshd:session): Failed to release session: Interrupted system call
+Jan 12 20:23:43 charr-VirtualBox sshd[622]: Server listening on 0.0.0.0 port 22.
+Jan 12 20:23:43 charr-VirtualBox sshd[622]: Server listening on :: port 22.
+Jan 12 20:25:58 charr-VirtualBox sshd[4785]: Accepted password for charr from 192.168.43.231 port 49889 ssh2
+Jan 12 20:25:58 charr-VirtualBox sshd[4785]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 12 20:37:40 charr-VirtualBox sshd[5423]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.43.231  user=charr
+Jan 12 20:37:43 charr-VirtualBox sshd[5423]: Failed password for charr from 192.168.43.231 port 50316 ssh2
+Jan 12 20:37:48 charr-VirtualBox sshd[5423]: Accepted password for charr from 192.168.43.231 port 50316 ssh2
+Jan 12 20:37:48 charr-VirtualBox sshd[5423]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 12 20:38:12 charr-VirtualBox sshd[5678]: Accepted password for charr from 192.168.43.231 port 50330 ssh2
+Jan 12 20:38:12 charr-VirtualBox sshd[5678]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 12 20:38:18 charr-VirtualBox sshd[5423]: pam_unix(sshd:session): session closed for user charr
+Jan 12 20:38:18 charr-VirtualBox sshd[5678]: pam_unix(sshd:session): session closed for user charr
+Jan 12 20:38:24 charr-VirtualBox sshd[5883]: Accepted password for charr from 192.168.43.231 port 50343 ssh2
+Jan 12 20:38:24 charr-VirtualBox sshd[5883]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 12 20:38:41 charr-VirtualBox sshd[6049]: Connection reset by authenticating user charr 192.168.43.231 port 50357 [preauth]
+Jan 12 21:16:02 charr-VirtualBox sshd[9604]: Accepted password for dicoding from 127.0.0.1 port 60892 ssh2
+Jan 12 21:16:02 charr-VirtualBox sshd[9604]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:16:57 charr-VirtualBox sshd[9745]: Received disconnect from 127.0.0.1 port 60892:11: disconnected by user
+Jan 12 21:16:57 charr-VirtualBox sshd[9745]: Disconnected from user dicoding 127.0.0.1 port 60892
+Jan 12 21:16:57 charr-VirtualBox sshd[9604]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:23:38 charr-VirtualBox sshd[10517]: Accepted password for dicoding from 127.0.0.1 port 59660 ssh2
+Jan 12 21:23:38 charr-VirtualBox sshd[10517]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:24:55 charr-VirtualBox sshd[10610]: Received disconnect from 127.0.0.1 port 59660:11: disconnected by user
+Jan 12 21:24:55 charr-VirtualBox sshd[10610]: Disconnected from user dicoding 127.0.0.1 port 59660
+Jan 12 21:24:55 charr-VirtualBox sshd[10517]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:26:46 charr-VirtualBox sshd[11036]: Accepted password for dicoding from 127.0.0.1 port 46182 ssh2
+Jan 12 21:26:46 charr-VirtualBox sshd[11036]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:27:55 charr-VirtualBox sshd[11267]: Accepted password for charr from 192.168.43.231 port 51286 ssh2
+Jan 12 21:27:55 charr-VirtualBox sshd[11267]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 12 21:28:07 charr-VirtualBox sshd[11372]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=dicoding
+Jan 12 21:28:08 charr-VirtualBox sshd[11372]: Failed password for dicoding from 127.0.0.1 port 34630 ssh2
+Jan 12 21:28:16 charr-VirtualBox sshd[11372]: Accepted password for dicoding from 127.0.0.1 port 34630 ssh2
+Jan 12 21:28:16 charr-VirtualBox sshd[11372]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:28:21 charr-VirtualBox sshd[4870]: Received disconnect from 192.168.43.231 port 49889:11: disconnected by user
+Jan 12 21:28:21 charr-VirtualBox sshd[4870]: Disconnected from user charr 192.168.43.231 port 49889
+Jan 12 21:28:21 charr-VirtualBox sshd[4785]: pam_unix(sshd:session): session closed for user charr
+Jan 12 21:28:21 charr-VirtualBox sshd[11154]: Received disconnect from 127.0.0.1 port 46182:11: disconnected by user
+Jan 12 21:28:21 charr-VirtualBox sshd[11154]: Disconnected from user dicoding 127.0.0.1 port 46182
+Jan 12 21:28:21 charr-VirtualBox sshd[11036]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:29:51 charr-VirtualBox sshd[622]: Received signal 15; terminating.
+Jan 12 21:29:52 charr-VirtualBox sshd[12509]: Server listening on 0.0.0.0 port 22.
+Jan 12 21:29:52 charr-VirtualBox sshd[12509]: Server listening on :: port 22.
+Jan 12 21:30:32 charr-VirtualBox sshd[14202]: Accepted password for charr from 127.0.0.1 port 51804 ssh2
+Jan 12 21:30:32 charr-VirtualBox sshd[14202]: pam_unix(sshd:session): session opened for user charr by (uid=0)
+Jan 12 21:30:35 charr-VirtualBox sshd[14294]: Received disconnect from 127.0.0.1 port 51804:11: disconnected by user
+Jan 12 21:30:35 charr-VirtualBox sshd[14294]: Disconnected from user charr 127.0.0.1 port 51804
+Jan 12 21:30:35 charr-VirtualBox sshd[14202]: pam_unix(sshd:session): session closed for user charr
+Jan 12 21:30:37 charr-VirtualBox sshd[11482]: Received disconnect from 127.0.0.1 port 34630:11: disconnected by user
+Jan 12 21:30:37 charr-VirtualBox sshd[11482]: Disconnected from user dicoding 127.0.0.1 port 34630
+Jan 12 21:30:37 charr-VirtualBox sshd[11372]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:33:40 charr-VirtualBox sshd[14648]: Connection closed by authenticating user dicoding 127.0.0.1 port 44746 [preauth]
+Jan 12 21:33:40 charr-VirtualBox sshd[14656]: Connection closed by authenticating user dicoding 127.0.0.1 port 44758 [preauth]
+Jan 12 21:33:46 charr-VirtualBox sshd[14667]: Accepted password for dicoding from 127.0.0.1 port 44764 ssh2
+Jan 12 21:33:46 charr-VirtualBox sshd[14667]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:33:47 charr-VirtualBox sshd[14783]: Received disconnect from 127.0.0.1 port 44764:11: disconnected by user
+Jan 12 21:33:47 charr-VirtualBox sshd[14783]: Disconnected from user dicoding 127.0.0.1 port 44764
+Jan 12 21:33:47 charr-VirtualBox sshd[14667]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:37:40 charr-VirtualBox sshd[15163]: Accepted publickey for dicoding from 127.0.0.1 port 37358 ssh2: RSA SHA256:pYkXguZFdrbiRg4cJdwbFEgFXKI/NbRVMRG20xvxiyY
+Jan 12 21:37:40 charr-VirtualBox sshd[15163]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:37:45 charr-VirtualBox sshd[15255]: Received disconnect from 127.0.0.1 port 37358:11: disconnected by user
+Jan 12 21:37:45 charr-VirtualBox sshd[15255]: Disconnected from user dicoding 127.0.0.1 port 37358
+Jan 12 21:37:45 charr-VirtualBox sshd[15163]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:37:46 charr-VirtualBox sshd[15287]: Accepted publickey for dicoding from 127.0.0.1 port 37364 ssh2: RSA SHA256:pYkXguZFdrbiRg4cJdwbFEgFXKI/NbRVMRG20xvxiyY
+Jan 12 21:37:46 charr-VirtualBox sshd[15287]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:37:55 charr-VirtualBox sudo: dicoding : TTY=pts/1 ; PWD=/home/dicoding ; USER=root ; COMMAND=/usr/bin/nano /etc/ssh/sshd_config
+Jan 12 21:39:54 charr-VirtualBox sshd[15633]: Accepted publickey for dicoding from 127.0.0.1 port 42738 ssh2: RSA SHA256:pYkXguZFdrbiRg4cJdwbFEgFXKI/NbRVMRG20xvxiyY
+Jan 12 21:39:54 charr-VirtualBox sshd[15633]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:40:18 charr-VirtualBox sudo: dicoding : TTY=pts/3 ; PWD=/home/dicoding ; USER=root ; COMMAND=/usr/bin/gedit /etc/ssh/sshd_config
+Jan 12 21:42:15 charr-VirtualBox sudo: dicoding : TTY=pts/5 ; PWD=/home/dicoding ; USER=root ; COMMAND=/usr/bin/gedit /etc/ssh/sshd_config
+Jan 12 21:44:15 charr-VirtualBox sudo: dicoding : TTY=pts/5 ; PWD=/home/dicoding ; USER=root ; COMMAND=/usr/bin/gedit /etc/ssh/sshd_config
+Jan 12 21:45:53 charr-VirtualBox sudo: dicoding : TTY=pts/3 ; PWD=/home/dicoding ; USER=root ; COMMAND=/usr/bin/gedit /etc/ssh/sshd_config
+Jan 12 21:46:00 charr-VirtualBox sshd[15705]: Received disconnect from 127.0.0.1 port 42738:11: disconnected by user
+Jan 12 21:46:00 charr-VirtualBox sshd[15705]: Disconnected from user dicoding 127.0.0.1 port 42738
+Jan 12 21:46:00 charr-VirtualBox sshd[15633]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:46:16 charr-VirtualBox sudo:    charr : TTY=pts/0 ; PWD=/home/charr ; USER=root ; COMMAND=/usr/bin/gedit /etc/ssh/sshd_config
+Jan 12 21:47:42 charr-VirtualBox sshd[15342]: Received disconnect from 127.0.0.1 port 37364:11: disconnected by user
+Jan 12 21:47:42 charr-VirtualBox sshd[15342]: Disconnected from user dicoding 127.0.0.1 port 37364
+Jan 12 21:47:42 charr-VirtualBox sshd[15287]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:47:47 charr-VirtualBox sudo:    charr : TTY=pts/4 ; PWD=/home/charr ; USER=root ; COMMAND=/usr/bin/systemctl restart sshd.service
+Jan 12 21:47:47 charr-VirtualBox sshd[12509]: Received signal 15; terminating.
+Jan 12 21:47:47 charr-VirtualBox sshd[17676]: Server listening on 0.0.0.0 port 22.
+Jan 12 21:47:47 charr-VirtualBox sshd[17676]: Server listening on :: port 22.
+Jan 12 21:48:00 charr-VirtualBox sshd[17717]: Accepted publickey for dicoding from 127.0.0.1 port 46774 ssh2: RSA SHA256:pYkXguZFdrbiRg4cJdwbFEgFXKI/NbRVMRG20xvxiyY
+Jan 12 21:48:00 charr-VirtualBox sshd[17717]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:53:00 charr-VirtualBox sudo:    charr : TTY=pts/0 ; PWD=/home/charr ; USER=root ; COMMAND=/usr/bin/gedit /etc/ssh/sshd_config
+Jan 12 21:54:32 charr-VirtualBox sshd[17791]: Received disconnect from 127.0.0.1 port 46774:11: disconnected by user
+Jan 12 21:54:32 charr-VirtualBox sshd[17791]: Disconnected from user dicoding 127.0.0.1 port 46774
+Jan 12 21:54:32 charr-VirtualBox sshd[17717]: pam_unix(sshd:session): session closed for user dicoding
+Jan 12 21:54:34 charr-VirtualBox sudo:    charr : TTY=pts/4 ; PWD=/home/charr ; USER=root ; COMMAND=/usr/bin/systemctl restart sshd.service
+Jan 12 21:54:34 charr-VirtualBox sshd[17676]: Received signal 15; terminating.
+Jan 12 21:54:35 charr-VirtualBox sshd[18417]: Server listening on 0.0.0.0 port 2000.
+Jan 12 21:54:35 charr-VirtualBox sshd[18417]: Server listening on :: port 2000.
+Jan 12 21:55:07 charr-VirtualBox sshd[18501]: Accepted publickey for dicoding from 127.0.0.1 port 54330 ssh2: RSA SHA256:pYkXguZFdrbiRg4cJdwbFEgFXKI/NbRVMRG20xvxiyY
+Jan 12 21:55:07 charr-VirtualBox sshd[18501]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Jan 12 21:55:32 charr-VirtualBox sshd[18571]: Received disconnect from 127.0.0.1 port 54330:11: disconnected by user
+Jan 12 21:55:32 charr-VirtualBox sshd[18571]: Disconnected from user dicoding 127.0.0.1 port 54330
+Jan 12 21:55:32 charr-VirtualBox sshd[18501]: pam_unix(sshd:session): session closed for user dicoding
